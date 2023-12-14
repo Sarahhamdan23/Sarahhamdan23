@@ -7,7 +7,7 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me: 317- 457-1266 </h2>
 
 
 [linkedin]: http://linkedin.com/in/sarah-hamdan-86651417b
