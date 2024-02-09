@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sarah! <br/><a , <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity </a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sarah! <br/><a , <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity </a>, <a href="https://www.youtube.com/c/joshmadakor">You Meditation page</a></h1>
 
 <h2>👩🏻‍💻 Cybersecurity Projects:</h2>
 
