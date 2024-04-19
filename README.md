@@ -1,7 +1,8 @@
 <h1>Hello World, I'm Sarah! <br/><a , <a href="https://www.linkedin.com/in/sarah-hamdan-86651417b/"> My Linkedin 👩🏻‍💼 </a> <br/> <a href="https://www.youtube.com/@soothingmeditation1223">My Meditation page 🧘🏻‍♀️</a></h1>
 
 
-<h1>👩🏻‍💻 Cybersecurity Projects:</h1>  <a href="https://coursera.org/share/3af86796a683ca6aad9814d8bc3a263e"> Tools of the Trade: Linux and SQL Certificate </a>
+<h1>👩🏻‍💻 Cybersecurity Projects:</h1>  <h3> <a href="https://coursera.org/share/3af86796a683ca6aad9814d8bc3a263e"> Tools of the Trade: Linux and SQL Certificate </a> </h3>
+<h3> <a href="https://coursera.org/share/1798c4ec04ac5176f6fa876a7af6e41f">Connect and Protect: Networks and Network Security </a> </h3>
 
 
 
