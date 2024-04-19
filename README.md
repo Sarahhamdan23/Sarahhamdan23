@@ -1,6 +1,6 @@
 <h1>Hello World, I'm Sarah! <br/><a , <a href="https://www.linkedin.com/in/sarah-hamdan-86651417b/"> My Linkedin 👩🏻‍💼 </a> <br/> <a href="https://www.youtube.com/@soothingmeditation1223">My Meditation page 🧘🏻‍♀️</a></h1>
 
-<h2>👩🏻‍💻 Cybersecurity Projects:<a herf="https://www.coursera.org/api/certificate.v1/pdf/"> </h2>
+<h2> <a herf="https://www.coursera.org/api/certificate.v1/pdf/"> 👩🏻‍💻 Cybersecurity Projects:</a> </h2>
 
 
 
