@@ -3,7 +3,9 @@
 <h2>👩🏻‍💻 Cybersecurity Projects:</h2>
 
 
-<h2>📺  YouTube Videos</h2>
+<h2>📺 Here is some YouTube Videos</h2>
+<h3>Meditate with me</h3>
+<p>https://www.youtube.com/@soothingmeditation1223</p>
 
 
 
