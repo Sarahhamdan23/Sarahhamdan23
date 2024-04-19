@@ -10,7 +10,7 @@
 
 
 
-<h2>📺  <a href="https://www.youtube.com/@soothingmeditation1223">Here is some YouTube Videos I have created</a> </h2>
+<h2>📺  <a href="https://www.youtube.com/@soothingmeditation1223">Here are some YouTube Videos I have created</a> </h2>
 <h3>Meditate With Me</h3>
 
 
