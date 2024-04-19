@@ -1,7 +1,7 @@
 <h1>Hello World, I'm Sarah! <br/><a , <a href="https://www.linkedin.com/in/sarah-hamdan-86651417b/"> My Linkedin 👩🏻‍💼 </a> <br/> <a href="https://www.youtube.com/@soothingmeditation1223">My Meditation page 🧘🏻‍♀️</a></h1>
 
 <h2> 👩🏻‍💻 Cybersecurity Projects: </h2>
-[<img src="Connect&ProtectNetworkCoursera pdf.pdf">](https://coursera.org/share/0636ef562c99ff18e84f6cf8c1067851)
+<img src="Connect&ProtectNetworkCoursera pdf.pdf">
 
 
 
