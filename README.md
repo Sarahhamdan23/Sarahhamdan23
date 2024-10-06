@@ -27,9 +27,8 @@
 Here are some stuff I am working on:
 
 - 🔭 Achievement Unlocked: Cybersecurity Certificate from Google. 
-- 🌱 MIT Full Stack Developer Program.
+- 🌱 MIT Full Stack Developer with MERN.
 - 👯 I’m looking to collaborate on ...(coming soon)
-- 🤔 I’m looking for help with React, Strapi.
 - 💬 Ask me about what projects I have created. 
 - 📫 How to reach me: sarahwbas@gmail.com
 - ⚡ 
